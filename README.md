@@ -1,0 +1,14 @@
+# REST API EXPRESS.JS MONGODB - BLOG
+
+---
+
+## Technologies
+
+- PNPM
+- CORS
+- EXPRESS
+- MORGAN
+- MONGOOSE
+- HELMET
+- DOTENV
+- NODEMON
